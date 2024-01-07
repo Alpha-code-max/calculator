@@ -1,0 +1,27 @@
+body{
+    background: #fff;
+    color: #000;
+}
+.wrapper{
+    max-width: 90%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    margin: 30px 30px 5px 30px;
+    font-weight: 500;
+}
+table{
+    margin-top: 30px;
+}
+.display-none{
+    display: none;
+}
+tbody td{
+    text-transform: uppercase;
+}
+.name-class{
+    text-align: center;
+    font-size: small;
+    margin-bottom: 40px;
+}
